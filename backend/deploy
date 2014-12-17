@@ -1,0 +1,15 @@
+#!/bin/bash
+
+command -v lftp >/dev/null 2>&1 || { echo >&2 "lftp is required but not installed, aborting. Install via Homebrew: brew install lftp"; exit 1; }
+test -f ".environment" || { echo ".environment is required but not present, aborting."; exit; }
+
+source '.environment';
+
+test ! -z "$FTP_USER" || { echo "FTP_USER environment variable is required but not present or empty, aborting."; exit; }
+test ! -z "$FTP_PASSWORD" || { echo "FTP_PASSWORD environment variable is required but not present or empty, aborting."; exit; }
+
+echo "Deployment started";
+
+lftp -c "open -u $FTP_USER,$FTP_PASSWORD wp232.webpack.hosteurope.de; set ssl:verify-certificate no; mirror -R build/ . -P=10 --delete -v"
+
+echo "Deployment finished";

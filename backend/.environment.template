@@ -1,0 +1,5 @@
+FTP_USER="user";
+FTP_PASSWORD="secret";
+
+export FTP_USER;
+export FTP_PASSWORD;

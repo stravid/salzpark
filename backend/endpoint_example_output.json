@@ -1,0 +1,551 @@
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Altstadtgarage (M\u00f6nchsberg)",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Hildmannplatz",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/gis.stadt-salzburg.at\/common\/legend\/Contipark.pdf",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "804 (60%)",
+        "FREIE_PLAETZE_STATUS": 1,
+        "BELEGUNG_AKTUALISIERT": "17.12.2014 22:35",
+        "BELEGUNG_TENDENZ": "steigend"
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Renaissance Hotel",
+        "OEFFNUNGSZEITEN": "MO-SO 0:00-24:00",
+        "ADRESSE": "Fanny-von-Lehnert-Stra\u00dfe 7",
+        "TELEFON": "0662\/823864-0<br>Handy: 0664\/3076043 ",
+        "FAX": "0662\/433213",
+        "EMAIL": null,
+        "URL": null,
+        "TARIF": "pro Std. &euro; 1,5<br>Tagesh\u00f6chstsatz &euro; 16<br>Dauerparker  je Monat &euro; 48",
+        "KAPAZITAET": "470 Parkpl\u00e4tze, davon 200 Dauerparker",
+        "ANMERKUNGEN": "Max. Fahrzeugh\u00f6he 2m<br>Monatskarten \u00fcber Garagenbetreuung G&S Hausbetreuung<br>Info- bzw. W\u00e4rterh\u00e4uschen vor Ort",
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Landeskrankenhaus",
+        "OEFFNUNGSZEITEN": "Einfahrt M\u00fclln: 24h<br>Einfahrt Aiglhof: 04:00-21:00",
+        "ADRESSE": "M\u00fcllner Haupstra\u00dfe 48",
+        "TELEFON": "0662\/4482-2188",
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/www.salk.at\/lageplan_lkh.php",
+        "TARIF": "<br \/>Durchfahrt bis 10 Minuten &euro; 2,0<br \/>bis 30 min. gratis<br \/>bis 60 min &euro; 1,9<br \/>bis 90 min &euro; 3,5<br \/>bis 120 min &euro; 5,3<br \/>bis 180 min &euro; 7<br \/>bis 240 min &euro; 9,2<br \/>ab 241 min &euro; 16,9 Tagessatz",
+        "KAPAZITAET": "ca. 105 Stellpl\u00e4tze am Gel\u00e4nde; 371 Stellpl\u00e4tze Parkdeck",
+        "ANMERKUNGEN": "Parkscheinverlust &euro; 15,3",
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Cineplexx Airport",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Bundesstra\u00dfe 2",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/www.apcoa.at\/Designer-Outlet-Center-P1--Garage-718d.html",
+        "TARIF": null,
+        "KAPAZITAET": "1200 Stellpl\u00e4tze",
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Parkplatz",
+        "BEZEICHNUNG": "Petersbrunnhof",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Erzabt-Klotz-Stra\u00dfe\/Petersbrunnstra\u00dfe",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/gis.stadt-salzburg.at\/common\/legend\/Contipark.pdf",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Park & Ride Messezentrum Salzburg",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Am Messezentrum 1",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/www.apcoa.at\/Messezentrum-Salzburg--Garage-717d.html",
+        "TARIF": null,
+        "KAPAZITAET": "3400 Stellpl\u00e4tze",
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "3580 (97%)",
+        "FREIE_PLAETZE_STATUS": 1,
+        "BELEGUNG_AKTUALISIERT": "17.12.2014 22:35",
+        "BELEGUNG_TENDENZ": "gleichbleibend"
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Parkplatz",
+        "BEZEICHNUNG": "Park & Ride S\u00fcd",
+        "OEFFNUNGSZEITEN": "MO-SO 0:00-24:00",
+        "ADRESSE": "Alpenstra\u00dfe - Stadteinfahrt S\u00fcd",
+        "TELEFON": "0662\/8072",
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/www.stadt-salzburg.at\/parken",
+        "TARIF": "PKW:  &euro; 5\/24h <br>Jahresticket f\u00fcr Betriebe\/Pendler &euro; 75\/Jahr<br>Bus: &euro; 38\/24h",
+        "KAPAZITAET": "330 Parkpl\u00e4tze",
+        "ANMERKUNGEN": "Linienbusse 3 und 8 ins Zentrum; Kombiticket von Juni bis September: Parken + \u00f6ffentlicher Verkehr f\u00fcr max. 5 Personen &euro; 10,-",
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Raiffeisengarage (Schwarzstr.)",
+        "OEFFNUNGSZEITEN": "Mo.-So. 07:00-24:00<br>w\u00e4hrend der Festspielzeit Mo.-So. 07:00-01:00",
+        "ADRESSE": "Schwarzstra\u00dfe 13-15",
+        "TELEFON": "0662\/8886-1041",
+        "FAX": null,
+        "EMAIL": null,
+        "URL": null,
+        "TARIF": "je 20 Minuten &euro; 0,8<br>ab der 4. Stunden Taktung je Stunde &euro; 2,4<br>Tagesgeb\u00fchr &euro; 24<br>Kulturticket &euro; 7 (Einfahrt ab 18:00-24:00; Kauf \u00fcber Landes- oder Marionettentheater)<br>Dauerparkm\u00f6glichkeit auf Anfrage",
+        "KAPAZITAET": "200 Parkpl\u00e4tze (176 Kundenparkpl\u00e4tze); Dauerparker Winter: 60 \/ Sommer: 40",
+        "ANMERKUNGEN": "Max. Fahrzeugh\u00f6he 2,15m<br>Zahlung an Kassenautomaten mit EURO Banknoten\/M\u00fcnzen oder mit g\u00e4ngiger Kredit- und inl\u00e4ndischer Bankomatkarte<br>gekennzeichnete\nBehindertenstellpl\u00e4tze<br>Autogas nicht erlaubt",
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Bahnhofsgarage",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "S\u00fcdtirolerplatz 1",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/gis.stadt-salzburg.at\/common\/legend\/Contipark.pdf",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "ZIB Zentrum 'im' Berg",
+        "OEFFNUNGSZEITEN": "Mo.-Do. 09:00-19:00<br>Fr. 09:00-19:30<br>Sa. 09:00-17:00",
+        "ADRESSE": "F\u00fcrbergstra\u00dfe 18-20",
+        "TELEFON": "0662\/645338-0 oder 0662\/645338",
+        "FAX": null,
+        "EMAIL": "office@pre-consult.at",
+        "URL": "http:\/\/www.zib.at",
+        "TARIF": "bis zu 2 Std. frei \/ ab der 3 Std. jede weiter &euro; 1,0 <br>von 20:00 bis 5:00 Uhr: Nachttarif jede Std. &euro; 0,7<br>Parkscheinverlust &euro; 14,0",
+        "KAPAZITAET": "450 Stellpl\u00e4tze (+150 Bewohner)",
+        "ANMERKUNGEN": "25 Frauenparkpl\u00e4tze, Max. Fahrzeugh\u00f6he 2m",
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "CityCenter Parkgarage",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Karl-Wurmb-Stra\u00dfe 6",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/www.citycenter-salzburg.at\/parken.php?id=2",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Forum Arkaden",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Karl-Wurmb-Stra\u00dfe 5",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/gis.stadt-salzburg.at\/common\/legend\/Contipark.pdf",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Linzergassengarage (Kapuzinerberg)",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Glockengasse 4a",
+        "TELEFON": "0662\/878444",
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/bx000010.host.inode.at\/web\/frontend\/view.php?MENUEID=95",
+        "TARIF": null,
+        "KAPAZITAET": "400 Stellpl\u00e4tze",
+        "ANMERKUNGEN": "Max. Fahrzeugh\u00f6he 2,1m",
+        "FREIE_PLAETZE": "266 (66%)",
+        "FREIE_PLAETZE_STATUS": 1,
+        "BELEGUNG_AKTUALISIERT": "17.12.2014 22:35",
+        "BELEGUNG_TENDENZ": "steigend"
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "WIFI-Garage",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Julius Raab Platz 2",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/gis.stadt-salzburg.at\/common\/legend\/Contipark.pdf",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "222 (81%)",
+        "FREIE_PLAETZE_STATUS": 1,
+        "BELEGUNG_AKTUALISIERT": "17.12.2014 22:35",
+        "BELEGUNG_TENDENZ": "steigend"
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Parkplatz",
+        "BEZEICHNUNG": "M\u00fcllner Parkplatz",
+        "OEFFNUNGSZEITEN": "<br \/>Mo.-So. 00:00-24:00<br \/>Einfahrt beim Augustiner Br\u00e4u:<br \/>Mo.-Fr. 15:00-23:00<br \/>Sa., So. u. Feiertag 14:30-23:00<br \/>Ausfahrtszeit 0:00-24:00",
+        "ADRESSE": "Lindhofstra\u00dfe",
+        "TELEFON": "0662\/8151 (\u00d6WD)",
+        "FAX": null,
+        "EMAIL": null,
+        "URL": null,
+        "TARIF": "<br \/>bis 10 min. gratis<br \/>1\/2 Std. &euro; 0,7<br \/>1Std. &euro; 1,4<br \/>1 1\/2 Std. &euro; 2,1<br \/>2 Std. &euro; 2,8<br \/>2 1\/2 Std. &euro; 3,5<br \/>3 Std. &euro; 4,2<br \/>3 1\/2 Std. &euro; 4,9<br \/>4 Std. &euro; 5,6<br \/>4 1\/2 Std. &euro; 6,3<br \/>5 Std. &euro; 7<br \/>5 1\/2 Std. &euro; 7,7<br \/>6 Std. &euro; 8,4<br \/>10 1\/2 Std. &euro; 10,4<br \/>7 Std. &euro; 11,2<br \/>7 1\/2 Std. &euro; 12<br \/>8 Std. &euro; 12,8<br \/>Tagesticket &euro; 12,8<br \/>bis 2. Tage &euro; 25,6<br \/>bis 3. Tage &euro; 38,4<br \/>bis 4. Tage &euro; 51,2<br \/>bis 5. Tage &euro; 64<br \/>bis 10. Tage &euro; 128<br \/>Ticketverlust &euro; 20<br \/>bis 2. Tage &euro; 25,6<br \/>Fahrzeuge \u00fcber 2,5 Meter je angefangener 1\/2 Std. &euro; 1,0<br \/>bis Tagesticket &euro; 30",
+        "KAPAZITAET": "400 Parkpl\u00e4tze",
+        "ANMERKUNGEN": "Nicht ohne Ticket einfahren und Ticket vor der Ausfahrt an der Kassa zahlen.",
+        "FREIE_PLAETZE": "247 (62%)",
+        "FREIE_PLAETZE_STATUS": 1,
+        "BELEGUNG_AKTUALISIERT": "17.12.2014 22:35",
+        "BELEGUNG_TENDENZ": "steigend"
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Parkplatz",
+        "BEZEICHNUNG": "Christian-Doppler-Klinik\r",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Ignaz-Harrer-Stra\u00dfe 79",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/www.salk.at\/lageplan_cdk.php",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Forum 1 Garage",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "S\u00fcdtiroler Platz 13",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/gis.stadt-salzburg.at\/common\/legend\/Contipark.pdf",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Parkplatz",
+        "BEZEICHNUNG": "Landeskrankenhaus Aiglhof",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Aiglhofstra\u00dfe 35",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/gis.stadt-salzburg.at\/common\/legend\/Contipark.pdf",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Garage Franz Josef Stra\u00dfe",
+        "OEFFNUNGSZEITEN": "Mo.-So. 00:00-24:00",
+        "ADRESSE": "Franz Josef Stra\u00dfe 24",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/www.apcoa.at\/Garage-Franz-Josef-Strasse--Garage-715d.html",
+        "TARIF": "je angefangene Stunde &euro; 2,5<br>Tagesmaximum &euro; 17,50<br>Dauerparktarif &euro; 96 pro Monat",
+        "KAPAZITAET": "90 Stellpl\u00e4tze",
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Parkplatz",
+        "BEZEICHNUNG": "Volksgarten",
+        "OEFFNUNGSZEITEN": "Mo.-So. 00:00-24:00",
+        "ADRESSE": "Volksgarten - Hermann-Bahr-Promenade 2",
+        "TELEFON": "0662\/623 411",
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/www.stadt-salzburg.at\/parken",
+        "TARIF": "erste 1\/2h gratis<br>dann &euro; 1,5\/Stunde<br>H\u00f6chstparkdauer 9h<br>kostenlose Zufahrt zu Volksgartenbad und Eisarena<br>gratis parken f\u00fcr Besucher des Volksgartenbades und der Eisarena (Ausfahrtsticket mit Eintrittskarte erh\u00e4ltich)",
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Medicent Salzburg",
+        "OEFFNUNGSZEITEN": "Mo.-So. 00.00-24:00",
+        "ADRESSE": "Innsbrucker Bundesstra\u00dfe 35",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/www.apcoa.at\/Medicent-Salzburg--Garage-703d.html",
+        "TARIF": "je angefangene Stunde &euro; 2,5<br>Tagesmaximum &euro; 15,00",
+        "KAPAZITAET": "160 Stellpl\u00e4tze",
+        "ANMERKUNGEN": "max. Fahrzeugh\u00f6he 2,1m",
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Unipark Garage Nonntal",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Erzabt-Klotz-Stra\u00dfe 1",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/gis.stadt-salzburg.at\/common\/legend\/Contipark.pdf",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Mirabell",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Mirabellplatz 5b",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/gis.stadt-salzburg.at\/common\/legend\/Contipark.pdf",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "249 (36%)",
+        "FREIE_PLAETZE_STATUS": 1,
+        "BELEGUNG_AKTUALISIERT": "17.12.2014 22:35",
+        "BELEGUNG_TENDENZ": "fallend"
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Parkplatz",
+        "BEZEICHNUNG": "Rot-Kreuz-Parkplatz",
+        "OEFFNUNGSZEITEN": "MO-DO 8:00-23:00<br>FR-SA 8:00-24:00<br>SO und Feiertags 9:30-17:30",
+        "ADRESSE": "M\u00fcllner Hauptstra\u00dfe",
+        "TELEFON": "0662\/8144-12",
+        "FAX": null,
+        "EMAIL": null,
+        "URL": null,
+        "TARIF": "1 Std. &euro; 2,2<br>2 Std. &euro; 4,0<br>3 Std. &euro; 6,4<br>4 Std. &euro; 8,9<br>5 Std. &euro; 10,5<br>6 Std. &euro; 13,0<br>7 Std. &euro; 15<br>8 Std. &euro; 17<br>9 Std. &euro; 18,9<br>9 Stunden ist Tagesmaximum",
+        "KAPAZITAET": "105 Parkpl\u00e4tze<br>(3 Stellpl\u00e4tze f\u00fcr \u00c4rzte)",
+        "ANMERKUNGEN": "Max. Fahrzeugh\u00f6he 4m",
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Auersperg-Garage (Sheraton)",
+        "OEFFNUNGSZEITEN": "Mo.-So. 00:00-24:00",
+        "ADRESSE": "Auerspergstrasse 4",
+        "TELEFON": "0662\/877261",
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/www.apcoa.at\/Garage-Auersperg--Garage-66d.html",
+        "TARIF": "je angefangene Stunde &euro; 2,5<br>Tagesmaximum &euro; 17,50<br>Dauerparktarif &euro; 107 pro Monat",
+        "KAPAZITAET": "100 Parkpl\u00e4tze",
+        "ANMERKUNGEN": "Max. Fahrzeugh\u00f6he 2,05m",
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Hypo-Garage (Petersbrunnstr.)",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Petersbrunnstra\u00dfe",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/gis.stadt-salzburg.at\/common\/legend\/Contipark.pdf",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Kieselgarage",
+        "OEFFNUNGSZEITEN": "MO-FR 07:30-18:30<br>SA 07:00-18:00",
+        "ADRESSE": "Rainerstrasse 21",
+        "TELEFON": "0662\/878687 oder 0662\/872359",
+        "FAX": null,
+        "EMAIL": null,
+        "URL": null,
+        "TARIF": "Stunde 0 - 1 &euro; 2<br>Stunde 1 - 2 &euro; 4<br>Stunde 2 - 3 &euro; 6<br>Stunde 3 - 4 &euro; 9<br>Stunde 4 - 5 &euro; 12<br>Stunde 5 - 6 &euro; 15<br>Tagesh\u00f6chstsatz: &euro; 15",
+        "KAPAZITAET": "140 Parkpl\u00e4tze; davon 30 Dauerparker",
+        "ANMERKUNGEN": "Max. Fahrzeugh\u00f6he 2,1m<br>mit Kieselcard\/Profitcard: je Std. &euro; 1,0 und am Samstag 3h gratis parken, Kundenkarte in einem Gesch\u00e4ft im Kiesel durch Formular erh\u00e4ltlich",
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Garage\/Parkhaus",
+        "BEZEICHNUNG": "Airport-Salzburg",
+        "OEFFNUNGSZEITEN": "MO-SO 0:00-24:00",
+        "ADRESSE": "Innsbrucker Bundesstra\u00dfe 95",
+        "TELEFON": "0662\/8580-7911",
+        "FAX": null,
+        "EMAIL": "carport@salzburg-airport.at oder info@salzburg-airport.at",
+        "URL": "http:\/\/www.salzburg-airport.com\/parken.html",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    },
+    {
+      "properties": {
+        "TYP": "Parkplatz",
+        "BEZEICHNUNG": "Akademiestrasse",
+        "OEFFNUNGSZEITEN": null,
+        "ADRESSE": "Akademiestra\u00dfe",
+        "TELEFON": null,
+        "FAX": null,
+        "EMAIL": null,
+        "URL": "http:\/\/gis.stadt-salzburg.at\/common\/legend\/Contipark.pdf",
+        "TARIF": null,
+        "KAPAZITAET": null,
+        "ANMERKUNGEN": null,
+        "FREIE_PLAETZE": "nicht bekannt",
+        "FREIE_PLAETZE_STATUS": 0,
+        "BELEGUNG_AKTUALISIERT": null,
+        "BELEGUNG_TENDENZ": null
+      }
+    }

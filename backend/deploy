@@ -10,6 +10,6 @@ test ! -z "$FTP_PASSWORD" || { echo "FTP_PASSWORD environment variable is requir
 
 echo "Deployment started";
 
-lftp -c "open -u $FTP_USER,$FTP_PASSWORD wp232.webpack.hosteurope.de; set ssl:verify-certificate no; mirror -R build/ . -P=10 --delete -v"
+lftp -c "open -u $FTP_USER,$FTP_PASSWORD wp232.webpack.hosteurope.de; set ssl:verify-certificate no; mirror -R . /www/stravid/public/salzpark/backend -i fetch.php -P=10 --delete -v"
 
 echo "Deployment finished";
